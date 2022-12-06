@@ -28,8 +28,10 @@ document.querySelector('#cards').innerHTML =
     createCard("03/12","Oitavas de final", createGame('netherlands','12:00','united states')+createGame('argentina','16:00','australia'))+
     createCard("04/12","Oitavas de final", createGame('france','12:00','poland')+createGame('england','16:00','senegal'))+
     createCard("05/12","Oitavas de final", createGame('japan','12:00','croatia')+createGame('brazil','16:00','southkorea'))+
-    createCard("06/12","Oitavas de final", createGame('morocco','12:00','spain')+createGame('portugal','16:00','switzerland'))
-    
+    createCard("06/12","Oitavas de final", createGame('morocco','12:00','spain')+createGame('portugal','16:00','switzerland'))+
+    createCard("09/12","Quartas de final", createGame('croatia','12:00','brazil')+createGame('netherlands','16:00','argentina'))+
+    createCard("10/12","Quartas de final", createGame('morocco','12:00','portugal')+createGame('england','16:00','france'))
+
 
 
 
